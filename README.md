@@ -4,7 +4,7 @@ script hecho en bash con objetivo de dejar si  internet a un dispositivo de tu m
 ## Para instalarlo se hace lo siguiente 
 
 ``` bash
-git clone https://github.com/JJoosh/DownWifi
+gti clone https://github.com/JJoosh/DownWifi.git
 cd DownWifi
 sudo bash downwifi.sh
 ```
