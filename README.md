@@ -1,5 +1,5 @@
 # DownWifi
-script hecho en bash con objetivo de dejar si  internet a un dispositivo de tu misma red, en este script usamos la herramienta dsniff y arpspoof 
+script que tiene como objetivo suplantar la comunicacion arp de un dispositivo de tu red y el router 
 
 ## Para instalarlo se hace lo siguiente 
 
