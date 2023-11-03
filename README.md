@@ -8,8 +8,6 @@ gti clone https://github.com/JJoosh/DownWifi.git
 cd DownWifi
 sudo bash downwifi.sh
 ```
-#### Ojos si no tienes dsniff lo instalas de la siguiente forma 
-
 #### Nota: No olvides instalar dsniff (:
 
 ## Imagen de como se ve 
