@@ -15,4 +15,4 @@ sudo apt install dsniff
 ```
 
 ## Imagen de como se ve 
-![Screenshot-03_11_2023-01-15-44](https://github.com/JJoosh/DownWifi/assets/122099216/6bed3b23-9bc5-477f-a718-46eb12b653ad)
+![Screenshot-03_11_2023-09-19-50](https://github.com/JJoosh/DownWifi/assets/122099216/20e21d38-af1d-49d1-a0d3-8af58739d4fe)
